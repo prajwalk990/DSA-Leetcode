@@ -11,8 +11,9 @@ public:
             if(c==')') clos++;
             else open++;
             if(open==clos && open!=0){
-                 int n = cur.size();
-               ans+= cur.substr(1,n-2); ;
+                 cur.pop_back();
+                 cur.erase(cur.begin());
+               ans+= cur; ;
               cur.clear();
             }
         }
