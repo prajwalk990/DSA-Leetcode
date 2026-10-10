@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🚀 Target 300+: DSA & LeetCode Mastery ⚡</h1>
+  <h1>🚀 Target 500+: DSA & LeetCode Mastery ⚡</h1>
 
   <p>
     <b>"Consistency beats intensity. One problem a day keeps the rejection away."</b>
